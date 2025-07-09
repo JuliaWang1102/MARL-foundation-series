@@ -42,4 +42,4 @@ Watch the complete video series: [MARL Foundation Series Playlist](your-youtube-
 
 ## 📧 Contact
 
-Questions? Reach out via [juliawangrl1102@gmail.com] or join our community discussions.
+Questions? Reach out via [juliawangrl1102@gmail.com].
