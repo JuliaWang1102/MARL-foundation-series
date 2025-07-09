@@ -38,7 +38,7 @@ We welcome contributions, bug reports, and suggestions from the community to imp
 
 ## 🎥 YouTube Series
 
-Watch the complete video series: [MARL Foundation Series Playlist](your-youtube-playlist-link)
+Watch the complete video series: [MARL Foundation Series Playlist](https://youtu.be/GzZ4l6rYLlE)
 
 ## 📧 Contact
 
