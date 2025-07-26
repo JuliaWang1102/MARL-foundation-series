@@ -2,11 +2,10 @@
 This folder contains academic papers, research articles, and additional reading materials referenced in Episode 02. These resources provide comprehensive coverage of MARL paradigm design patterns, from centralized to decentralized approaches, along with their representative algorithms and implementations.
 
 📖 Key Papers
-CTCE (Centralized Training, Centralized Execution)
+
 Boutilier, C. (1996). "Planning and acting in partially observable stochastic domains." TARK '96.
 DOI: 10.1016/0004-3702(95)00082-3
 
-CTDE (Centralized Training, Decentralized Execution)
 Sunehag, P., et al. (2017). "Value-Decomposition Networks For Cooperative Multi-Agent Learning." ArXiv preprint.
 https://arxiv.org/abs/1706.05296
 
@@ -28,7 +27,6 @@ https://arxiv.org/abs/1810.02912
 Wang, T., et al. (2020). "ROMA: Multi-Agent Reinforcement Learning with Emergent Roles." ICML 2020.
 https://arxiv.org/abs/2003.08039
 
-DTDE (Decentralized Training, Decentralized Execution)
 He, H., et al. (2016). "Opponent Modeling in Deep Reinforcement Learning." ICML 2016.
 https://arxiv.org/abs/1609.05559
 
