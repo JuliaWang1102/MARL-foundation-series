@@ -1,4 +1,5 @@
 Episode 02 - References
+
 This folder contains academic papers, research articles, and additional reading materials referenced in Episode 02. These resources provide comprehensive coverage of MARL paradigm design patterns, from centralized to decentralized approaches, along with their representative algorithms and implementations.
 
 📖 Key Papers
