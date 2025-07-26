@@ -37,6 +37,7 @@ Mao, W., et al. (2023). "Multi-Agent Meta-Reinforcement Learning: Sharper Conver
 https://proceedings.neurips.cc/paper_files/paper/2023/file/d1b1a091088904cbc7f7faa2b45c8f36-Paper-Conference.pdf
 
 📚 Essential Reading
+
 Yu, C., et al. (2022). "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games." NeurIPS 2022.
 https://arxiv.org/abs/2103.01955
 
@@ -47,6 +48,7 @@ Singh, A., et al. (2019). "Learning when to Communicate at Scale in Multiagent C
 https://arxiv.org/abs/1812.09755
 
 💻 Implementation Resources
+
 PyMARL Framework: The primary multi-agent reinforcement learning framework containing implementations of most algorithms discussed.
 https://github.com/oxwhirl/pymarl
 
@@ -69,6 +71,7 @@ ROMA Official: Role-Oriented Multi-Agent implementation.
 https://github.com/TonghanWang/ROMA
 
 🔬 Additional Research
+
 Tampuu, A., et al. (2017). "Multiagent cooperation and competition with deep reinforcement learning." PLoS ONE.
 DOI: 10.1371/journal.pone.0172395
 
@@ -80,5 +83,4 @@ DOI: 10.1145/3672608.3707923
 
 Wang, J., et al. (2021). "QPLEX: Duplex Dueling Multi-Agent Q-Learning." ICLR 2021.
 https://openreview.net/forum?id=RcmkOxxIQV
-Wang, J., et al. (2021). "QPLEX: Duplex Dueling Multi-Agent Q-Learning." ICLR 2021.
-OpenReview
+
