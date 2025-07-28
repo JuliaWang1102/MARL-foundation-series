@@ -17,4 +17,4 @@
 - **Part 5**: Algorithm Comparison & Selection Guide
 
 
-📺 **Watch the full episode**: [YouTube Link]  
+📺 **Watch the full episode**: [[YouTube Link](https://www.youtube.com/watch?v=8Q5-drvISgc)]  
