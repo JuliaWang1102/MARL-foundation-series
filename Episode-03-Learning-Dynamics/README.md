@@ -48,10 +48,5 @@ After this episode, you will:
 - Developers building large-scale multi-agent systems
 - Anyone curious about how AI agents evolve and adapt together
 
-## 📋 **Homework Assignment**
-**Theoretical**: Analyze MADDPG's centralized critic and explain why it provides stable learning signals compared to independent methods.
-
-**Practical**: Complete a MAPPO implementation and compare performance against IPPO baseline in PettingZoo's 'simple_spread' environment.
-
 ---
 *This episode bridges the gap between static algorithms and dynamic, evolving multi-agent societies - preparing you for real-world implementation challenges.*
