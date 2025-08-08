@@ -24,4 +24,4 @@
 
 ---
 
-📺 **Watch the full episode**: [YouTube Link]  
+📺 **Watch the full episode**: [[YouTube Link]](https://youtu.be/lGVCK7aP9Hc)  
