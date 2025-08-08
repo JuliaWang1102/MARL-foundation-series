@@ -25,7 +25,6 @@ Welcome to Episode 3 of our MARL Foundation Series! This episode explores the fa
 ### **Section 3: Mean Field Theory - From Individuals to Population Trends**
 - **The Curse of Many Agents**: Exponential explosion of joint action spaces
 - **The Statistical Average Approach**: Replacing N-player games with agent vs. mean field
-- **Mean Field Q-Learning**: Mathematical approximation reducing complexity
 - **Real-World Applications**: Swarm robotics, traffic simulation, financial markets
 
 ## 🧠 **Why This Episode Matters**
